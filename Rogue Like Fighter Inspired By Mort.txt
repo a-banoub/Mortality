@@ -1,0 +1,24 @@
+Rogue Like Fighter Inspired By Mortal Kombat Towers
+"Boss" at end of tower is online opponent 
+Move set and specials are built through CARDS and modifiers
+
+High/Mid/Low/Overhead
+
+ATTRIBUTES: 
+
+LIGHT (1)
+	(1) Jab
+		A/B
+	(8,1) Crouch Jab 
+		A/B	 
+MEDIUM (2)
+	(2) High Hook 
+HEAVY (3)
+	(3) 
+MOBILITY (4)
+	(4) Jump
+		A - Double Jump 
+		B- Air Dodge
+SPECIAL (COMBO)
+	(8,6,2) 
+Attribute stat totals affect how many cards can be assigned 
